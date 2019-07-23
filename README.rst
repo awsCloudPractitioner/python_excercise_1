@@ -2,8 +2,7 @@
     - python ClassifyTriangle.py
 
 - To run unittests , execute this command on cmd prompt
-    - python -m unittest discover <test_directory> OR
-    - python -m unittest discover -s <directory> -p '<*>_test.py'
+    - python -m unittest discover <test_directory>
 
 - Assumptions :
     - python version 3 or later is installed
