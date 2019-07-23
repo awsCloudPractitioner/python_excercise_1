@@ -1,3 +1,5 @@
+- Set current directory to the project directory using cd command on windows
+
 - To run ClassifyTriangle Class , execute this command on cmd prompt
     - python ClassifyTriangle.py
 
