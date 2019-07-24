@@ -1,5 +1,5 @@
 import unittest
-from ClassifyTriangle import ClassifyTriangle
+from classifytriangle import ClassifyTriangle
 
 
 class TestClassifyTriangle(unittest.TestCase):

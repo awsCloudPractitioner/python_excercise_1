@@ -1,2 +1,2 @@
 - Project functionality : python to check a triangle is equilateral, isosceles or scalene
-- Installation requirements : pip, python
+- Installation requirements : pip, python version>=3

@@ -1,12 +1,11 @@
-- Set current directory to the project directory using cd command on windows
-
-- To run ClassifyTriangle Class , execute this command on cmd prompt
-    - python ClassifyTriangle.py
+- To run classifytriangle Class , execute this command on cmd prompt
+    - python classifytriangle.py
 
 - To run unittests , execute this command on cmd prompt
-    - python -m unittest discover <test_directory>
+    - python -m unittest discover <test_directory> OR
+    - python -m unittest discover -s <directory> -p '<*>_test.py'
 
 - Assumptions :
     - python version 3 or later is installed
-    - pip setup 
+    - pip setup
     - path environment variable is pointing to pip and python
